@@ -11,8 +11,11 @@
 >***Como Fazer***: Aqui, basicamente, está se respondendo a pergunta: O que a pessoa tem que revisar antes de ver essa aula?
 ## Introdução
 ### Descreva quais assuntos serão abordados nesta aula.
+>***O que é:*** Um parágrafo curto que explana rapidamente quais tópicos iremos ver nessa aula
+>***Como Fazer:*** Use a descrição da aula e modifique suas palavras
 ## Um Pouco de História
 ### Escreva uma redação, com 10 linhas escritas pelo menos, contando quando e quais pessoas influenciaram o avanço/descoberta do tema da aula ou de assuntos relacionados.
+
 ## Fato Curioso
 ### Com base no assunto da aula, elabore um flashcard interativo com um fato curioso. Essa resolução deve conter:
 ## Solução Detalhada
@@ -69,6 +72,6 @@
 
 https://rdresolucoes.github.io/Regras-Gerais/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDcxNDEwMSw0MjIwMjA5MDEsMTc1Mz
+eyJoaXN0b3J5IjpbMTk2ODU0NjM0NCw0MjIwMjA5MDEsMTc1Mz
 g4ODc5NSwtMTk0MTM2NzkxMl19
 -->
