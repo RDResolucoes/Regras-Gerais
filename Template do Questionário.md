@@ -7,6 +7,8 @@
 ### Copie aqui a referência presente no Tópico de Aula
 ## Conceitos
 ### Descreva os conteúdos que o aluno precisaria revisar antes de estudar essa aula.
+> ***O que é***: Nessa parte, deve-se citar os conceitos que a pessoa precisa saber para conseguir bom aproveitamento no estudo do material
+>***Como Fazer***: Aqui, basicamente, está se respondendo a pergunta: O que a pessoa tem que revisar antes de ver essa aula?
 ## Introdução
 ### Descreva quais assuntos serão abordados nesta aula.
 ## Um Pouco de História
@@ -67,6 +69,6 @@
 
 https://rdresolucoes.github.io/Regras-Gerais/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyMDIwOTAxLDE3NTM4ODg3OTUsLTE5ND
-EzNjc5MTJdfQ==
+eyJoaXN0b3J5IjpbLTU2NDcxNDEwMSw0MjIwMjA5MDEsMTc1Mz
+g4ODc5NSwtMTk0MTM2NzkxMl19
 -->
