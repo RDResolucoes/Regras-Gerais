@@ -2,30 +2,33 @@
 |AID-PRD|ID-QB|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |SEUAIDAQUI|22-1.1-MD-Z-Q|05/06/2000|07/06/2000|NA|NA|
-
+---
 ## Referências
 ### Copie aqui a referência presente no Tópico de Aula
+
 ## Conceitos
 ### Descreva os conteúdos que o aluno precisaria revisar antes de estudar essa aula.
-> ***O que é***: Nessa parte, deve-se citar os conceitos que a pessoa precisa saber para conseguir bom aproveitamento no estudo do material
->***Como Fazer***: Aqui, basicamente, está se respondendo a pergunta: O que a pessoa tem que revisar antes de ver essa aula?
+
 ## Introdução
 ### Descreva quais assuntos serão abordados nesta aula.
->***O que é:*** Um parágrafo curto que explana rapidamente quais tópicos iremos ver nessa aula
->***Como Fazer:*** Use a descrição da aula e modifique suas palavras
+
 ## Um Pouco de História
 ### Escreva uma redação, com 10 linhas escritas pelo menos, contando quando e quais pessoas influenciaram o avanço/descoberta do tema da aula ou de assuntos relacionados.
 
 ## Fato Curioso
-### Com base no assunto da aula, elabore um flashcard interativo com um fato curioso. Essa resolução deve conter:
+### Com base no assunto da aula, elabore um flashcard interativo com um fato curioso.
+
 ## Solução Detalhada
 ### Resolva a pergunta do cenário anterior usando os conceitos presentes nessa aula e monte flashcard(s) interativo(s). Utilize imagens representativas e gráficos, se necessário.
 ## Objetivos de Aprendizado
 ### Liste as competências que serão adquiridas após o aluno assistir à aula.
+
 ### Liste as competências novamente, porém desta vez resumindo cada uma em poucas palavras e construindo um flashcard interativo.
+
 ## Conceitos Primitivos
 ### Quais são os conceitos primitivos dessa aula? Liste-os e explique cada um deles sucintamente. Use imagens representativas para sua explicação. Esboce um diagrama.
 # Desenvolvimento
+## Tópico
 ### Neste campo, explique o primeiro tópico. Utilize quaisquer gráficos, tabelas, ilustrações e cálculos que forem necessários.
 ### Responda as perguntas anteriores para os demais tópicos da aula.
 # Fechamento, Resumos e Exercícios
@@ -72,6 +75,6 @@
 
 https://rdresolucoes.github.io/Regras-Gerais/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODU0NjM0NCw0MjIwMjA5MDEsMTc1Mz
-g4ODc5NSwtMTk0MTM2NzkxMl19
+eyJoaXN0b3J5IjpbMTM3MTYxNzQ3MCwxOTY4NTQ2MzQ0LDQyMj
+AyMDkwMSwxNzUzODg4Nzk1LC0xOTQxMzY3OTEyXX0=
 -->
